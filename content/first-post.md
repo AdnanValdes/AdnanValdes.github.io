@@ -6,3 +6,4 @@ tags = ["blog", "ssg"]
 +++
 
 This is the start of my new blog. I am using it primarily as a log for interesting things I come across or do.
+<!-- more -->
