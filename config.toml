@@ -8,7 +8,7 @@ compile_sass = true
 build_search_index = true
 title = "Adnan Valdes"
 generate_feed = true
-feed_filename = "rss.xml"
+feed_filename = "atom.xml"
 # Theme options
 #theme = "after-dark"
 paginate_by = 5
@@ -28,5 +28,5 @@ highlight_code = true
 after_dark_title = "Blog"
 after_dark_menu = [
     {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/rss.xml", name = "RSS"}
+    {url = "$BASE_URL/atom.xml", name = "RSS"}
 ]
